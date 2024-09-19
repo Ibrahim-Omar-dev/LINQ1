@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Grouping Data/1.0.0": {
+        "dependencies": {
+          "ShareData": "1.0.0"
+        },
+        "runtime": {
+          "Grouping Data.dll": {}
+        }
+      },
+      "ShareData/1.0.0": {
+        "runtime": {
+          "ShareData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grouping Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShareData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

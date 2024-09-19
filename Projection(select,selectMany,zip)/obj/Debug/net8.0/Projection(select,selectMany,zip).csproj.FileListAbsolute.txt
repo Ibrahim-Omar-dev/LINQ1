@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\bin\Debug\net8.0\Projection(select,selectMany,zip).exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\bin\Debug\net8.0\Projection(select,selectMany,zip).deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\bin\Debug\net8.0\Projection(select,selectMany,zip).runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\bin\Debug\net8.0\Projection(select,selectMany,zip).dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\bin\Debug\net8.0\Projection(select,selectMany,zip).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\refint\Projection(select,selectMany,zip).dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\Projection(select,selectMany,zip).genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Projection(select,selectMany,zip)\obj\Debug\net8.0\ref\Projection(select,selectMany,zip).dll

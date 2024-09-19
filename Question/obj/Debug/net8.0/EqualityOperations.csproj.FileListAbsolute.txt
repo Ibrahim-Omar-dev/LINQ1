@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\bin\Debug\net8.0\EqualityOperations.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\bin\Debug\net8.0\EqualityOperations.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\bin\Debug\net8.0\EqualityOperations.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\bin\Debug\net8.0\EqualityOperations.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\bin\Debug\net8.0\EqualityOperations.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\refint\EqualityOperations.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\EqualityOperations.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Question\obj\Debug\net8.0\ref\EqualityOperations.dll

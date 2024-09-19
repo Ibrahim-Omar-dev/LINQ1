@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EqualityOperations/1.0.0": {
+        "runtime": {
+          "EqualityOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EqualityOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

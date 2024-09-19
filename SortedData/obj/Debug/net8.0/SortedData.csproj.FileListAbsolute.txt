@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\bin\Debug\net8.0\SortedData.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\bin\Debug\net8.0\SortedData.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\bin\Debug\net8.0\SortedData.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\bin\Debug\net8.0\SortedData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\bin\Debug\net8.0\SortedData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\refint\SortedData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\SortedData.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\SortedData\obj\Debug\net8.0\ref\SortedData.dll

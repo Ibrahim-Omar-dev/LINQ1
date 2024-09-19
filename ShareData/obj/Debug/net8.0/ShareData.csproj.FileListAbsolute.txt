@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\bin\Debug\net8.0\ShareData.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\bin\Debug\net8.0\ShareData.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\bin\Debug\net8.0\ShareData.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\bin\Debug\net8.0\ShareData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\bin\Debug\net8.0\ShareData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\refint\ShareData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ShareData.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\ShareData\obj\Debug\net8.0\ref\ShareData.dll

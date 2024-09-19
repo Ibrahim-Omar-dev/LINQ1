@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\bin\Debug\net8.0\DataShare2.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\bin\Debug\net8.0\DataShare2.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\bin\Debug\net8.0\DataShare2.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\bin\Debug\net8.0\DataShare2.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\bin\Debug\net8.0\DataShare2.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\refint\DataShare2.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\DataShare2.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\DataShare2\obj\Debug\net8.0\ref\DataShare2.dll

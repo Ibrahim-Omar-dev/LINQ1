@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataPartitioning/1.0.0": {
+        "dependencies": {
+          "ShareData": "1.0.0"
+        },
+        "runtime": {
+          "DataPartitioning.dll": {}
+        }
+      },
+      "ShareData/1.0.0": {
+        "runtime": {
+          "ShareData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataPartitioning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShareData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

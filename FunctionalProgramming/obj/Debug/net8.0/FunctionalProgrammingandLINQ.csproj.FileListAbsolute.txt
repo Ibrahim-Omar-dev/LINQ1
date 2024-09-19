@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgrammingandLINQ.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgrammingandLINQ.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgrammingandLINQ.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgrammingandLINQ.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgrammingandLINQ.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgrammingandLINQ.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgrammingandLINQ.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgrammingandLINQ.dll

@@ -1,0 +1,21 @@
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\ShareData.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\ShareData.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\ShareData.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\Grouping Data.exe
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\Grouping Data.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\Grouping Data.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\Grouping Data.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\Grouping Data.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\ShareData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\bin\Debug\net8.0\ShareData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.csproj.AssemblyReference.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping.BA5A194F.Up2Date
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\refint\Grouping Data.dll
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\Grouping Data.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Linq\Grouping Data\obj\Debug\net8.0\ref\Grouping Data.dll
